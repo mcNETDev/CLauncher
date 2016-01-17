@@ -17,7 +17,7 @@ import eu.hostcode.mclauncher.gui.GUISetAccount;
 
 public class Main {
 	public static String BASE_URL = "http://clauncher.hostcode.eu/download.php?file=";
-	public static int VERSION = 1;
+	public static int VERSION = 2;
 
 	public static void main(String[] args) {
 		FlatLayoutManager.showCreditFrame = false;
